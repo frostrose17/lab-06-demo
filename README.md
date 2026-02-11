@@ -10,7 +10,6 @@ My lab successfully have shown "7 tests passed" when run the CityListTest file: 
 
 <img width="891" height="656" alt="image" src="https://github.com/user-attachments/assets/58071978-f802-40d5-8088-ab5656edf61a" />
 
-
 > Task :app:preBuild UP-TO-DATE
 > Task :app:preDebugBuild UP-TO-DATE
 > Task :app:javaPreCompileDebug UP-TO-DATE
@@ -38,8 +37,6 @@ My lab successfully have shown "7 tests passed" when run the CityListTest file: 
 > Task :app:bundleDebugClassesToCompileJar
 > Task :app:compileDebugUnitTestJavaWithJavac
 
-For more on this, please refer to https://docs.gradle.org/8.13/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
-BUILD SUCCESSFUL in 9s
 22 actionable tasks: 5 executed, 17 up-to-date
 
 Build Analyzer results available
