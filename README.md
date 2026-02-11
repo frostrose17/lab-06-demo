@@ -1,2 +1,3 @@
 # lab-06-demo
-CMPUT301
+Name: Kyumin Park
+ccid: kyumin5
